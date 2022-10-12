@@ -6,7 +6,7 @@ This repo is made for system security practical documentation
 
 | Practical No. | Practical Name |
 | ------------- | ------------- |
-| 1 | [Static code analysis using open source tool - Flawfinder]()  |
+| 1 | [Static code analysis using open source tool - Flawfinder](https://github.com/Vedant478/system_security_pracs/tree/main/Practical%201)  |
 | 2  | [Vulnerability scanning using Nikto](https://github.com/Encryptor-Sec/system-security/tree/main/Practical_2) |
 | 3 | [Exploring router & VLAN security using Cisco Packet Tracer](https://github.com/Encryptor-Sec/system-security/tree/main/Practical_3) |
 | 4  | [Study of SQL injection & Cross Site Scripting](https://github.com/Encryptor-Sec/system-security/tree/main/Practical_4)  |
