@@ -23,3 +23,13 @@ A computer virus is a type of malicious software, or malware, that spreads betwe
 
 Computer viruses aim to disrupt systems, cause major operational issues, and result in data loss and leakage. A key thing to know about computer viruses is that they are designed to spread across programs and systems. Computer viruses typically attach to an executable host file, which results in their viral codes executing when a file is opened. The code then spreads from the document or software it is attached to via networks, drives, file-sharing programs, or infected email attachments.
 
+
+Create your target folder - this is the folder you want your virus to attack.
+
+For demonstration purposes, I have created a folder called Test under the C Drive.
+
+```
+C:\Test
+```
+This virus would create an endless number of text files which contains a different number in the text document each time.
+
