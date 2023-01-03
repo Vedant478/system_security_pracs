@@ -9,9 +9,9 @@ pip install flawfinder
 ```
 ### Usage 
 ```
-flawfinder.py vulnerable_code.py
+flawfinder vulnerable_code.py
 ```
-### Vulnerable Code Output with Flawfinder
+### Vulnerable Code Output with Flawfinder 
 
 ```
 ANALYSIS SUMMARY:
